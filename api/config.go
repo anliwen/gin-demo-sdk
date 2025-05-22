@@ -1,5 +1,5 @@
 package apix
 
-func Addxx1(a, b int) int {
+func Addxx12(a, b int) int {
 	return a + b
 }
