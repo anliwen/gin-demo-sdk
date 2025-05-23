@@ -1,2 +1,2 @@
-module github.com/anliwen/gin-demo-sdk/x
+module github.com/anliwen/gin-demo-sdk
 go 1.24
